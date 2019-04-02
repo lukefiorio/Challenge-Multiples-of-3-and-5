@@ -16,6 +16,7 @@ exports.sumOfAMultiple = function( n ) {
   return sum;
 };
 
+/*
 function sumMult( n ) {
   var sum = 0;
 
@@ -29,3 +30,4 @@ function sumMult( n ) {
   return sum;
 }
 console.log(sumMult(10000));
+*/
